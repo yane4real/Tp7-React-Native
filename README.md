@@ -4,7 +4,7 @@
 ## 🎯 Objectifs du TP
 Ce TP a pour but de :
 - Consommer une API REST distante (GET)
-- Utiliser `axios` et `fetch`
+- Utiliser `axios` et `fetch` 
 - Gérer le chargement et les erreurs
 - Implémenter un thème clair/sombre persistant avec AsyncStorage
 - Implémenter un mode hors ligne avec SQLite
