@@ -146,6 +146,6 @@ Thème sauvegardé
 
 Code structuré et maintenable
 
-👨‍🎓 Réalisé par
-Étudiant(e) EMSI – Cycle Ingénieur
+👨‍🎓 Réalisé par Haddouali Yassine
+Étudiant EMSI – Cycle Ingénieur
 Module : React Native
